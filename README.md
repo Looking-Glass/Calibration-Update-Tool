@@ -1,4 +1,4 @@
-# Calibration-Update-Tool
+# Calibration Update Tool
 Updates Looking Glass calibration firmware
 
 ## How to use
