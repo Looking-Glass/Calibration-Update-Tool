@@ -4,7 +4,7 @@ Updates Looking Glass calibration firmware
 ### [Click here to download](https://github.com/Looking-Glass/Calibration-Update-Tool/raw/master/CalibrationTool.exe)
 
 ## How to use
-Make sure only one Looking Glass is plugged in (HDMI and USB) at a time, and run the executable. 
+Make sure only one Looking Glass is plugged in (one HDMI and one USB connection) at a time, and run the executable. 
 
 If you get a "Windows protected your PC" message, click "More Info" and then click "Run Anyway"
 
